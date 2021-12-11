@@ -65,6 +65,6 @@ for(var i = 0; i < enemyNames.length; i++) {
     fight(enemyNames[i]);
    
 }
-console.log(enemyNames, enemyAttack, enemyHealth);
+//console.log(enemyNames, enemyAttack, enemyHealth);
 
 //fight();
